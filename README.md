@@ -1,2 +1,2 @@
-# StratifydWebsiteSimpleNew
+# StratifydWebsite
 Stratifyd
